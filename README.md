@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+
+Hello, I like pizza (except for the ones with mushrooms).
